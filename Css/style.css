@@ -245,9 +245,8 @@ span {
 .container {
   max-width: 1080px;
   background-color: var(--color-white);
-  /*p left y right 20px y 60 top y bottom*/
   padding: 60px 20px;
-  margin: auto;
+  margin: 0 auto 0;
 }
 
 .skils-container__main {
